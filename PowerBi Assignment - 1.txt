@@ -1,0 +1,49 @@
+1. What do you mean by BI? Explain.
+- BI stands for Business Intelligence. It refers to a set of technologies, processes, and strategies used to analyze and transform raw data into meaningful and actionable insights for businesses. BI involves collecting, storing, and organizing large amounts of data from various sources, such as databases, spreadsheets, and software applications.
+The goal of BI is to enable data-driven decision-making by providing businesses with accurate, timely, and relevant information. It involves using tools and techniques to extract valuable insights, identify patterns, and uncover trends in data. These insights can be used to understand customer behavior, optimize operations, identify market opportunities, and drive overall business growth.
+BI typically involves the use of specialized software and tools that facilitate data visualization, reporting, and analysis. These tools allow users to create interactive dashboards, charts, and reports that present data in a meaningful way, making it easier for decision-makers to interpret and act upon the information.
+Business Intelligence plays a crucial role in modern organizations as it enables them to leverage data as a strategic asset. By harnessing the power of BI, businesses can gain a competitive edge, improve performance, make informed decisions, and achieve their goals more effectively.
+
+
+
+
+2. How Power-BI helps in BI, and how does it help Analysts? Explain.
+- Power BI is a powerful business intelligence tool developed by Microsoft. It provides a suite of tools and services that enable analysts and organizations to gather, analyze, and visualize data from various sources. Here's how Power BI helps in BI and how it benefits analysts:
+
+* Data Gathering and Transformation: Power BI allows analysts to connect to a wide range of data sources, including databases, spreadsheets, online services, and cloud platforms. Analysts can easily import, transform, and clean the data using Power Query, a data preparation tool within Power BI. This helps in creating a unified and structured dataset for analysis.
+
+* Data Modeling and Analysis: Power BI provides a robust data modeling environment called Power Pivot. Analysts can create relationships between different tables, define calculated columns and measures, and perform complex calculations using the DAX (Data Analysis Expressions) language. This empowers analysts to explore data relationships and derive meaningful insights from the data.
+
+* Interactive Data Visualization: Power BI offers a wide range of visualization options, including charts, graphs, maps, and tables. Analysts can create visually appealing and interactive reports and dashboards that allow end-users to explore data and gain insights easily. The drag-and-drop interface of Power BI enables analysts to quickly create compelling visualizations without the need for extensive coding or technical expertise.
+
+* Collaboration and Sharing: Power BI allows analysts to publish their reports and dashboards to the Power BI service or SharePoint, making it easy to share insights with colleagues or stakeholders. Analysts can collaborate with others by creating workspaces, setting up data refresh schedules, and providing controlled access to reports and data. This facilitates teamwork and ensures that everyone has access to up-to-date and consistent information.
+
+* Data Exploration and Natural Language Query: Power BI incorporates natural language processing capabilities, allowing analysts to ask questions about the data using plain language. Analysts can use the Q&A feature to interact with the data and receive instant visual responses based on their queries. This feature enables non-technical users to explore and analyze data independently, reducing their dependency on analysts for insights.
+
+
+
+
+
+
+3. Explain Descriptive analytics?
+- Descriptive analytics is a branch of data analytics that focuses on summarizing and interpreting historical data to gain insights and understand patterns and trends. It involves analyzing and describing past data to provide a clear picture of what has happened in a business/organization.
+
+
+
+4. Explain Predictive analytics?
+- Predictive analytics is a branch of data analytics that focuses on using historical data and statistical modeling techniques to make predictions and forecasts about future events or outcomes. It involves analyzing past data to identify patterns and relationships, and then using this information to make informed predictions about what is likely to happen in the future.
+
+
+
+5.Explain perspective analytics?
+- Prescriptive analytics takes predictive analytics a step further by providing actionable recommendations and decisions based on the insights gained from predictive models. It combines historical and real-time data with optimization algorithms and business rules to suggest the best course of action to achieve desired outcomes. Prescriptive analytics helps organizations make data-driven decisions, optimize resource allocation, and simulate scenarios to improve business performance.
+
+
+
+6. Write five real-life questions that PowerBi can solve.
+- 1) What is the monthly sales trend for each product category over the past year?
+  2) Which marketing channel (social media, email campaigns, search ads, etc.) is generating the highest conversion rate for our online store?
+  3) How does customer satisfaction vary across different regions or store locations?
+  4) Can we identify any patterns or trends in employee absenteeism to improve workforce management?
+  5) What is the average response time for customer support tickets, and how does it differ between weekdays and weekends?
+
